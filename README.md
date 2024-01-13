@@ -1,14 +1,14 @@
-# 基于SSM的商城管理系统
+# 基于SSM的商城管理系统7
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**商城7** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**商城**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
-基于SSM的商城管理系统6拥有管理员账号，具有商品管理、会员管理、添加视频、购物车、搜索商品等功能
+基于SSM的商城管理系统7拥有管理员账号，具有商品管理、会员管理、添加视频、购物车、搜索商品等功能
 
 
 ## 2、项目技术
@@ -31,31 +31,23 @@
 
 ### 4.1 登录
 
-![后端登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141702905.jpg)
+![后端登录](https://www.codeshop.fun/Typora-Images/202208141702905.jpg)
 
 ### 4.2 后台模块
 
-![管理员-会员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141702019.jpg)
+![管理员-会员管理](https://www.codeshop.fun/Typora-Images/202208141702019.jpg)
 
-![管理员-会员购买记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141703086.jpg)
+![管理员-会员购买记录](https://www.codeshop.fun/Typora-Images/202208141703086.jpg)
 
-![管理员-商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141703297.jpg)
+![管理员-商品管理](https://www.codeshop.fun/Typora-Images/202208141703297.jpg)
 
-![管理员-添加商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141703613.jpg)
+![管理员-添加商品](https://www.codeshop.fun/Typora-Images/202208141703613.jpg)
 
 ### 4.3 前台模块
 
-![前端首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141703167.jpg)
+![前端首页](https://www.codeshop.fun/Typora-Images/202208141703167.jpg)
 
-![商品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141703296.jpg)
+![商品详情](https://www.codeshop.fun/Typora-Images/202208141703296.jpg)
 
-![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141703911.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**商城7** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![购物车](https://www.codeshop.fun/Typora-Images/202208141703911.jpg)
 
